@@ -14,3 +14,7 @@
 - Визуализация данных
 
 ### [Мои проекты](https://github.com/YanaBogacheva/Portfolio)
+
+### Мои контакты
+- keroyal@mail.ru
+- https://t.me/@Bogacheva_Yana
