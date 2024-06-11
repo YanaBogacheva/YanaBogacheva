@@ -17,5 +17,5 @@
 ### [Проекты Мастерской Яндекс Практикума](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop)
 
 ### Мои контакты
-- keroyal@mail.ru
+- keroyalyana@yandex.ru
 - https://t.me/@Bogacheva_Yana
