@@ -14,7 +14,7 @@
 - Визуализация данных
 
 ### [Мои учебные проекты](https://github.com/YanaBogacheva/Yandex_Practicum)
-### [Проекты Мастерской Яндекс практикума](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop)
+### [Проекты Мастерской Яндекс Практикума](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop)
 
 ### Мои контакты
 - keroyal@mail.ru
