@@ -13,7 +13,8 @@
 - Статистический анализ
 - Визуализация данных
 
-### [Мои проекты](https://github.com/YanaBogacheva/Portfolio)
+### [Мои учебные проекты](https://github.com/YanaBogacheva/Yandex_Practicum)
+### [Проекты Мастерской Яндекс практикума](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop)
 
 ### Мои контакты
 - keroyal@mail.ru
