@@ -14,7 +14,7 @@
 - А/В тестирование
 - Визуализация данных
 
-### [Мои учебные проекты](https://github.com/YanaBogacheva/Yandex_Practicum)
+### [Учебные проекты Яндекс Практикума](https://github.com/YanaBogacheva/Yandex_Practicum)
 ### [Проекты Мастерской Яндекс Практикума](https://github.com/YanaBogacheva/Yandex_Praktikum_Workshop)
 
 ### Мои контакты
